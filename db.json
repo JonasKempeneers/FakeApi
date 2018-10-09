@@ -1,0 +1,15 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell"
+    },
+    "id": 2,
+      "title": "Animal Farm",
+      "author": "George Orwell"
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
