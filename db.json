@@ -6,12 +6,9 @@
       "author": "George Orwell"
     },
     {
-      "id": 2,
+      "id": 1,
       "title": "Animal Farm",
       "author": "George Orwell"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
