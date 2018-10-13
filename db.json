@@ -3,12 +3,14 @@
     {
       "id": 1,
       "title": "1984",
-      "author": "George Orwell"
+      "author": "George Orwell",
+      "isbn": "9780141036144"
     },
     {
       "id": 2,
       "title": "Animal Farm",
-      "author": "George Orwell"
+      "author": "George Orwell",
+      "isbn": "9780141036137"
     }
   ],
   "foundBooks": [
