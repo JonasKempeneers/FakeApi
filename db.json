@@ -13,20 +13,69 @@
       "author": "George Orwell",
       "language": "English",
       "isbn": "9780141036137"
+    },
+    {
+      "id": 3,
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "language": "English",
+      "isbn": "9780062469670"
+    },
+    {
+      "id": 4,
+      "title": "The Fall of Gondolin",
+      "author": "J.R.R. Tolkien",
+      "language": "English",
+      "isbn": "9781328613042"
+    },
+    {
+      "id": 5,
+      "title": "Mythos",
+      "author": "Stephen Fry",
+      "language": "Nederlands",
+      "isbn": "9789400406650"
+    },
+    {
+      "id": 6,
+      "title": "Norse Mythology",
+      "author": "Neil Gaiman",
+      "language": "English",
+      "isbn": "9781408891957"
+    },
+    {
+      "id": 7,
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "language": "English",
+      "isbn": "9780755379927"
+    },
+    {
+      "id": 8,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J.K. Rowling",
+      "language": "Nederlands",
+      "isbn": "9781408855690"
+    },
+    {
+      "id": 9,
+      "title": "Fire And Blood",
+      "author": "George R.R. Martin",
+      "isbn": "9781524796280 " 
     }
   ],
   "foundBooks": [
     {
-      "id": 5,
-      "title": "Harry Potter",
+      "id": 8,
+      "title": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling",
-      "isbn": "000"
+      "language": "Nederlands",
+      "isbn": "9781408855690"
     },
     {
-     "id": 14,
-      "title": "Game of Thrones",
+      "id": 9,
+      "title": "Fire And Blood",
       "author": "George R.R. Martin",
-      "isbn": "111" 
+      "isbn": "9781524796280 " 
     }
   ]
 }
