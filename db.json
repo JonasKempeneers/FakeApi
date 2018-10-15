@@ -1,4 +1,4 @@
-
+{
   "bookList": [
     {
       "id": 1,
@@ -12,19 +12,5 @@
       "author": "George Orwell",
       "isbn": "9780141036137"
     }
-  ],
-  "foundBooks": [
-    {
-      "id": 5,
-      "title": "Harry Potter",
-      "author": "J.K. Rowling",
-      "isbn": "000"
-    },
-    {
-     "id": 14,
-      "title": "Game of Thrones",
-      "author": "George R.R. Martin",
-      "isbn": "111" 
-    }
   ]
-
+}
