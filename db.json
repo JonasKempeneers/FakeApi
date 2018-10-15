@@ -5,62 +5,71 @@
       "title": "1984",
       "author": "George Orwell",
       "language": "English",
-      "isbn": "9780141036144"
+      "isbn": "9780141036144",
+      "dateFound": "02/02/2018"
     },
     {
       "id": 2,
       "title": "Animal Farm",
       "author": "George Orwell",
       "language": "English",
-      "isbn": "9780141036137"
+      "isbn": "9780141036137",
+      "dateFound": "02/10/2018"
     },
     {
       "id": 3,
       "title": "Elon Musk",
       "author": "Ashlee Vance",
       "language": "English",
-      "isbn": "9780062469670"
+      "isbn": "9780062469670",
+      "dateFound": "05/06/2018"
     },
     {
       "id": 4,
       "title": "The Fall of Gondolin",
       "author": "J.R.R. Tolkien",
       "language": "English",
-      "isbn": "9781328613042"
+      "isbn": "9781328613042",
+      "dateFound": "20/02/2018"
     },
     {
       "id": 5,
       "title": "Mythos",
       "author": "Stephen Fry",
       "language": "Nederlands",
-      "isbn": "9789400406650"
+      "isbn": "9789400406650",
+      "dateFound": "25/03/2018"
     },
     {
       "id": 6,
       "title": "Norse Mythology",
       "author": "Neil Gaiman",
       "language": "English",
-      "isbn": "9781408891957"
+      "isbn": "9781408891957",
+      "dateFound": "16/07/2018"
     },
     {
       "id": 7,
       "title": "American Gods",
       "author": "Neil Gaiman",
       "language": "English",
-      "isbn": "9780755379927"
+      "isbn": "9780755379927",
+      "dateFound": "13/08/2018"
     },
     {
       "id": 8,
       "title": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling",
       "language": "Nederlands",
-      "isbn": "9781408855690"
+      "isbn": "9781408855690",
+      "dateFound": "09/07/2018"
     },
     {
       "id": 9,
       "title": "Fire And Blood",
       "author": "George R.R. Martin",
-      "isbn": "9781524796280 " 
+      "isbn": "9781524796280",
+      "dateFound": "02/08/2018"
     }
   ],
   "foundBooks": [
