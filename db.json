@@ -6,7 +6,9 @@
       "author": "George Orwell",
       "language": "English",
       "isbn": "9780141036144",
-      "dateFound": "02/02/2018"
+      "dateFound": "02/02/2018",
+      "latitude": "50.953039",
+      "longitude": "5.352953"
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "author": "George Orwell",
       "language": "English",
       "isbn": "9780141036137",
-      "dateFound": "02/10/2018"
+      "dateFound": "02/10/2018",
+      "latitude": "50.953971",
+      "longitude": "5.346268"
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "author": "Ashlee Vance",
       "language": "English",
       "isbn": "9780062469670",
-      "dateFound": "05/06/2018"
+      "dateFound": "05/06/2018",
+      "latitude": "50.950092",
+      "longitude": "5.353153"
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "author": "J.R.R. Tolkien",
       "language": "English",
       "isbn": "9781328613042",
-      "dateFound": "20/02/2018"
+      "dateFound": "20/02/2018",
+      "latitude": "50.953868",
+      "longitude": "5.359938"
     },
     {
       "id": 5,
@@ -38,7 +46,9 @@
       "author": "Stephen Fry",
       "language": "Nederlands",
       "isbn": "9789400406650",
-      "dateFound": "25/03/2018"
+      "dateFound": "25/03/2018",
+      "latitude": "",
+      "longitude": ""
     },
     {
       "id": 6,
@@ -46,7 +56,9 @@
       "author": "Neil Gaiman",
       "language": "English",
       "isbn": "9781408891957",
-      "dateFound": "16/07/2018"
+      "dateFound": "16/07/2018",
+      "latitude": "",
+      "longitude": ""
     },
     {
       "id": 7,
@@ -54,7 +66,9 @@
       "author": "Neil Gaiman",
       "language": "English",
       "isbn": "9780755379927",
-      "dateFound": "13/08/2018"
+      "dateFound": "13/08/2018",
+      "latitude": "",
+      "longitude": ""
     },
     {
       "id": 8,
@@ -62,14 +76,18 @@
       "author": "J.K. Rowling",
       "language": "Nederlands",
       "isbn": "9781408855690",
-      "dateFound": "09/07/2018"
+      "dateFound": "09/07/2018",
+      "latitude": "",
+      "longitude": ""
     },
     {
       "id": 9,
       "title": "Fire And Blood",
       "author": "George R.R. Martin",
       "isbn": "9781524796280",
-      "dateFound": "02/08/2018"
+      "dateFound": "02/08/2018",
+      "latitude": "",
+      "longitude": ""
     }
   ],
   "foundBooks": [
@@ -78,13 +96,59 @@
       "title": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling",
       "language": "Nederlands",
-      "isbn": "9781408855690"
+      "isbn": "9781408855690",
+      "latitude": "",
+      "longitude": ""
     },
     {
       "id": 9,
       "title": "Fire And Blood",
       "author": "George R.R. Martin",
-      "isbn": "9781524796280 " 
+      "isbn": "9781524796280 " ,
+      "latitude": "",
+      "longitude": ""
+    }
+  ],
+  "booksInLocationRadius": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "language": "English",
+      "isbn": "9780141036144",
+      "dateFound": "02/02/2018",
+      "latitude": "50.953039",
+      "longitude": "5.352953"
+    },
+    {
+      "id": 2,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "language": "English",
+      "isbn": "9780141036137",
+      "dateFound": "02/10/2018",
+      "latitude": "50.953971",
+      "longitude": "5.346268"
+    },
+    {
+      "id": 3,
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "language": "English",
+      "isbn": "9780062469670",
+      "dateFound": "05/06/2018",
+      "latitude": "50.950092",
+      "longitude": "5.353153"
+    },
+    {
+      "id": 4,
+      "title": "The Fall of Gondolin",
+      "author": "J.R.R. Tolkien",
+      "language": "English",
+      "isbn": "9781328613042",
+      "dateFound": "20/02/2018",
+      "latitude": "50.953868",
+      "longitude": "5.359938"
     }
   ]
 }
