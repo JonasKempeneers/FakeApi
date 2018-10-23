@@ -47,8 +47,8 @@
       "language": "Nederlands",
       "isbn": "9789400406650",
       "dateFound": "25/03/2018",
-      "latitude": "",
-      "longitude": ""
+      "latitude": "50.958067",
+      "longitude": "5.358235"
     },
     {
       "id": 6,
@@ -57,8 +57,8 @@
       "language": "English",
       "isbn": "9781408891957",
       "dateFound": "16/07/2018",
-      "latitude": "",
-      "longitude": ""
+      "latitude": "50.956688",
+      "longitude": "5.351071"
     },
     {
       "id": 7,
@@ -67,8 +67,8 @@
       "language": "English",
       "isbn": "9780755379927",
       "dateFound": "13/08/2018",
-      "latitude": "",
-      "longitude": ""
+      "latitude": "50.957770",
+      "longitude": "5.345154"
     },
     {
       "id": 8,
@@ -77,8 +77,8 @@
       "language": "Nederlands",
       "isbn": "9781408855690",
       "dateFound": "09/07/2018",
-      "latitude": "",
-      "longitude": ""
+      "latitude": "50.953043",
+      "longitude": "5.343572"
     },
     {
       "id": 9,
@@ -86,8 +86,8 @@
       "author": "George R.R. Martin",
       "isbn": "9781524796280",
       "dateFound": "02/08/2018",
-      "latitude": "",
-      "longitude": ""
+      "latitude": "50.951579",
+      "longitude": "5.348943"
     }
   ],
   "foundBooks": [
@@ -97,16 +97,18 @@
       "author": "J.K. Rowling",
       "language": "Nederlands",
       "isbn": "9781408855690",
-      "latitude": "",
-      "longitude": ""
+      "dateFound": "09/07/2018",
+      "latitude": "50.953043",
+      "longitude": "5.343572"
     },
     {
       "id": 9,
       "title": "Fire And Blood",
       "author": "George R.R. Martin",
-      "isbn": "9781524796280 " ,
-      "latitude": "",
-      "longitude": ""
+      "isbn": "9781524796280",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943"
     }
   ],
   "booksInLocationRadius": [
