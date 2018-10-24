@@ -8,7 +8,8 @@
       "isbn": "9780141036144",
       "dateFound": "02/02/2018",
       "latitude": "50.953039",
-      "longitude": "5.352953"
+      "longitude": "5.352953",
+      "hint": "Big tree"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "isbn": "9780141036137",
       "dateFound": "02/10/2018",
       "latitude": "50.953971",
-      "longitude": "5.346268"
+      "longitude": "5.346268",
+      "hint": "Where the chapel stands"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "isbn": "9780062469670",
       "dateFound": "05/06/2018",
       "latitude": "50.950092",
-      "longitude": "5.353153"
+      "longitude": "5.353153",
+      "hint": "Behind the statue"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "isbn": "9781328613042",
       "dateFound": "20/02/2018",
       "latitude": "50.953868",
-      "longitude": "5.359938"
+      "longitude": "5.359938",
+      "hint": ""
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "isbn": "9789400406650",
       "dateFound": "25/03/2018",
       "latitude": "50.958067",
-      "longitude": "5.358235"
+      "longitude": "5.358235",
+      "hint": ""
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "isbn": "9781408891957",
       "dateFound": "16/07/2018",
       "latitude": "50.956688",
-      "longitude": "5.351071"
+      "longitude": "5.351071",
+      "hint": ""
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "isbn": "9780755379927",
       "dateFound": "13/08/2018",
       "latitude": "50.957770",
-      "longitude": "5.345154"
+      "longitude": "5.345154",
+      "hint": ""
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "isbn": "9781408855690",
       "dateFound": "09/07/2018",
       "latitude": "50.953043",
-      "longitude": "5.343572"
+      "longitude": "5.343572",
+      "hint": ""
     },
     {
       "id": 9,
@@ -87,7 +95,8 @@
       "isbn": "9781524796280",
       "dateFound": "02/08/2018",
       "latitude": "50.951579",
-      "longitude": "5.348943"
+      "longitude": "5.348943",
+      "hint": ""
     }
   ],
   "foundBooks": [
@@ -99,7 +108,8 @@
       "isbn": "9781408855690",
       "dateFound": "09/07/2018",
       "latitude": "50.953043",
-      "longitude": "5.343572"
+      "longitude": "5.343572",
+      "hint": ""
     },
     {
       "id": 9,
@@ -108,7 +118,8 @@
       "isbn": "9781524796280",
       "dateFound": "02/08/2018",
       "latitude": "50.951579",
-      "longitude": "5.348943"
+      "longitude": "5.348943",
+      "hint": ""
     }
   ],
   "booksInLocationRadius": [
