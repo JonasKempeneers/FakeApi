@@ -101,6 +101,39 @@
   ],
   "foundBooks": [
     {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "language": "English",
+      "isbn": "9780141036144",
+      "dateFound": "02/02/2018",
+      "latitude": "50.953039",
+      "longitude": "5.352953",
+      "hint": "Big tree"
+    },
+    {
+      "id": 3,
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "language": "English",
+      "isbn": "9780062469670",
+      "dateFound": "05/06/2018",
+      "latitude": "50.950092",
+      "longitude": "5.353153",
+      "hint": "Behind the statue"
+    },
+    {
+      "id": 4,
+      "title": "The Fall of Gondolin",
+      "author": "J.R.R. Tolkien",
+      "language": "English",
+      "isbn": "9781328613042",
+      "dateFound": "20/02/2018",
+      "latitude": "50.953868",
+      "longitude": "5.359938",
+      "hint": ""
+    },
+    {
       "id": 8,
       "title": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling",
