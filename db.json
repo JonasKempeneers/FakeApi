@@ -137,7 +137,8 @@
       "latitude": "50.951579",
       "longitude": "5.348943",
       "hint": ""
-    }{
+    },
+    {
       "id": 14,
       "title": "De antwoorden op de grote vragen",
       "author": "Stephen Hawking",
@@ -258,6 +259,106 @@
       "title": "Fire And Blood",
       "author": "George R.R. Martin",
       "isbn": "9781524796280",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 21,
+      "title": "Work hard, play hard",
+      "author": "Danique Bossers",
+      "isbn": "9789021570631",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 22,
+      "title": "Boeddha's kookboek",
+      "author": "Hans Peter Roel",
+      "isbn": "9789079677535",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 23,
+      "title": "Mijn strijd: kritische editie",
+      "author": "Prometheus",
+      "isbn": "9789044635867",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 24,
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "isbn": "9780241958223",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 25,
+      "title": "Omdat het kan",
+      "author": "Eva Daeleman",
+      "isbn": "9789492626851",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 26,
+      "title": "Door to Door",
+      "author": "Edward Humes",
+      "isbn": "9780062372079",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 27,
+      "title": "Nooit meer diëten",
+      "author": "Sandra Bekkari",
+      "isbn": "9789089315120",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 28,
+      "title": "Een klein leven",
+      "author": "Hanya Yanagihara",
+      "isbn": "9789046820315",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 29,
+      "title": "Wim Kieft",
+      "author": "Michel van Egmond",
+      "isbn": "9789048844340",
+      "dateFound": "02/08/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 30,
+      "title": "De acht bergen",
+      "author": "Paolo Cognetti",
+      "isbn": "9789023466413",
       "dateFound": "02/08/2018",
       "latitude": "50.951579",
       "longitude": "5.348943",
