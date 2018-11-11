@@ -117,7 +117,27 @@
       "latitude": "50.951579",
       "longitude": "5.348943",
       "hint": ""
-    }
+    },
+    {
+      "id": 12,
+      "title": "De zeven zussen",
+      "author": "Lucinda Riley",
+      "isbn": "9789401609371",
+      "dateFound": "27/05/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 13,
+      "title": "Dingen die je alleen ziet als je er de tijd voor neemt",
+      "author": "Haemin Sunim",
+      "isbn": "9789022581124",
+      "dateFound": "27/05/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
   ],
   "foundBooks": [
     {
