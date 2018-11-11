@@ -97,6 +97,26 @@
       "latitude": "50.951579",
       "longitude": "5.348943",
       "hint": ""
+    },
+    {
+      "id": 10,
+      "title": "Het Pioppi dieet",
+      "author": "Aseem Malhotra, Donal O'Neill",
+      "isbn": "9789045216126",
+      "dateFound": "16/10/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
+    },
+    {
+      "id": 11,
+      "title": "De Gorgels en het geheim van de gletsjer",
+      "author": "Jochem Myjer",
+      "isbn": "9789025875350",
+      "dateFound": "21/04/2018",
+      "latitude": "50.951579",
+      "longitude": "5.348943",
+      "hint": ""
     }
   ],
   "foundBooks": [
